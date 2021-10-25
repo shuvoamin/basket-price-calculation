@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fokrua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fokrua\\.nuget\\packages"
+    ]
+  }
+}
