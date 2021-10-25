@@ -1,9 +1,0 @@
-C:\Systems\BasketPriceCalculation\PriceCalculation\bin\Debug\netcoreapp3.1\PriceCalculation.deps.json
-C:\Systems\BasketPriceCalculation\PriceCalculation\bin\Debug\netcoreapp3.1\PriceCalculation.dll
-C:\Systems\BasketPriceCalculation\PriceCalculation\bin\Debug\netcoreapp3.1\PriceCalculation.pdb
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.csproj.AssemblyReference.cache
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.AssemblyInfoInputs.cache
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.AssemblyInfo.cs
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.csproj.CoreCompileInputs.cache
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.dll
-C:\Systems\BasketPriceCalculation\PriceCalculation\obj\Debug\netcoreapp3.1\PriceCalculation.pdb
