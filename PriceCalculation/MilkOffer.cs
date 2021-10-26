@@ -19,7 +19,8 @@ namespace PriceCalculation
             if (products.Count(p => p.Type == ProductType.Milk) >= MinMilkForDiscount)
             {
                 IEnumerable<IGrouping<int, (Product Item, int Grouping)>> productsByIndex =
-                    products.Select((p, i) => (Item: p, Grouping: (i / MinMilkForDiscount))).GroupBy(p => p.Grouping);
+                    products.Select((p, i) => (Item: p, Grouping: (i / MinMilkForDiscount)))
+                            .GroupBy(p => p.Grouping);
                 decimal milkPrice = products.FirstOrDefault(p => p.Type == ProductType.Milk).Price;
 
                 foreach (var item in productsByIndex)

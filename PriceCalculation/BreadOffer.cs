@@ -21,7 +21,7 @@ namespace PriceCalculation
 
             if (totalButter >= MinButterForDiscount && products.Count(p => p.Type == ProductType.Bread) > 0)
             {
-                int totalButterCombo = (int)decimal.Truncate(totalButter / 2);
+                int totalButterCombo = (int)decimal.Truncate(totalButter / MinButterForDiscount);
 
                 // assume this rule, bread has a flat rate
                 decimal breadPrice = products.FirstOrDefault(p => p.Type == ProductType.Bread).Price;
